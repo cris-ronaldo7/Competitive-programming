@@ -3,7 +3,7 @@ Competitive programming Codes from various websites like Codechef, Hackerrank, C
 
 <p align="center">
     <br>HackerRank Profile<a href="https://www.hackerrank.com/cris_ronaldo"> Profile.</a>
-    <br>Codechef Profile<a href="https://www.hackerrank.com/cris_ronaldo"> Profile.</a>
+    <br>Codechef Profile<a href="https://www.codechef.com/users/cris_ronaldo"> Profile.</a>
     <br>Codeforces Profile<a href="https://codeforces.com/profile/cris_ronaldo"> Profile.</a>
 </p>
 
